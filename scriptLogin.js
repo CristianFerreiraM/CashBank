@@ -1,8 +1,8 @@
 //Info do usuario
 const cristian = {
-    usuario: "Cristian",
+    usuario: "teste",
     cpf: 60002665026,
-    senha: "Cristian.2017"
+    senha: "123"
 }
 //função para exibir com js no html
 function exibirTextoNaTela(tag, texto) {
